@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is D467-8F53
+
+ Directory of D:\GitTest
+
+21-Dec-17  09:28 PM    <DIR>          .
+21-Dec-17  09:28 PM    <DIR>          ..
+21-Dec-17  09:28 PM                 0 ishtiaq.txt
+               1 File(s)              0 bytes
+               2 Dir(s)      69,926,912 bytes free
